@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "newfs.h": "c",
+        "cmath": "cpp"
+    }
+}
